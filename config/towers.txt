@@ -1,0 +1,8 @@
+# Firmware ids from the pillar sketches already in the tree.
+# A COM port is not a pillar name.
+pillar Pillar_01 Tower_1 PILLAR_01
+pillar Pillar_04 Tower_1 PILLAR_04
+pillar Pillar_02 Tower_2 PILLAR_02
+pillar Pillar_05 Tower_2 PILLAR_05
+pillar Pillar_03 Tower_3 PILLAR_03
+pillar Pillar_06 Tower_3 PILLAR_06
